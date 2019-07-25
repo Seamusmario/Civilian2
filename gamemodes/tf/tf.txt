@@ -1,0 +1,12 @@
+"tf"
+{
+	"base" "base"
+	"title" "Team Fortress"
+	"menusystem" "1"
+	"workshopid" ""
+	"author_name" "LeadKiller"
+
+	"settings"
+	{
+	}
+}
