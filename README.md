@@ -1,6 +1,10 @@
 ## Open Fortress Gamemode
 The Gamemode that allows you to play an TF2 Source SDK Mod in Gmod!
 
+# Notice
+
+This is work in progress. Expect bugs and exploits!
+
 ## Installation
 Drop the addon folder into the addons folder.
 Mount open fortress using this method:
